@@ -1,0 +1,32 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+* What new skills have you learned?
+  
+* What has been easy?
+  
+* What has been difficult?
+  
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* New skills I have learned
+
+1. Used Mozilla Developer Network's "HTML element reference" to look for HTML elements to accomplish my needs.
+2. Learned a few useful keyboard shortcuts such as CTRL-O and CTRL-R.
+3. I have used Sublime Text before. Now I am playing with Atom.  
+
+* What has been easy?
+
+The course is easy to understand.
+
+* What has been difficult?
+ 
+
+Nothing is difficult at this point.
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+I used MDN "HTML element reference" to look for HTML elements I need to translate the mockup to a html page.
